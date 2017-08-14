@@ -1,0 +1,481 @@
+﻿my-tweets undefined
+------------
+RT @addyosmani: CSS font-display:optional just shipped in Chrome 60! If you can't load a font fast, it'll just use a fallback: https://t.co…
+Thu Jun 15 04:38:04 +0000 2017
+------------
+There's something immensely delightful about a custom scrollbar, I don't know what it is.
+Tue Jun 06 14:37:50 +0000 2017
+------------
+Today I got excited by a font pack sale. Clearly I'm off the deep end... @FontSquirrel
+Tue Jun 06 02:22:37 +0000 2017
+ 
+spotify-this-song Get Lucky
+------------
+Song Name: Get Lucky - Radio Edit
+Artist: Daft Punk
+Preview Link: https://p.scdn.co/mp3-preview/92d40a2ae211cceb264e9ee1e67fe05f4d788200?cid=221170c4d1f645bab7c38e4708cab898
+Album: Get Lucky (Radio Edit)
+movie-this Happy Gilmore
+ 
+Title: Happy Gilmore
+Year: 1996
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 60%
+Country: USA
+Language: English
+Plot: A rejected hockey player puts his skills to the golf course to save his grandmother's house.
+Actors: Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay
+spotify-this-song Stronger
+ 
+------------
+Song Name: Stronger
+Artist: Kanye West
+Preview Link: null
+Album: Graduation
+spotify-this-song Stronger
+ 
+------------
+Song Name: Stronger
+Artist: Kanye West
+Preview Link: null
+Album: Graduation
+spotify-this-song Stronger
+------------
+Song Name: Stronger
+Artist: Kanye West
+Preview Link: null
+Album: Graduation
+ 
+ 
+spotify-this-song Stronger
+------------
+Song Name: Stronger
+Artist: Kanye West
+Preview Link: null
+Album: Graduation
+ 
+spotify-this-song Stronger
+------------
+Song Name: Stronger
+Artist: Kanye West
+Preview Link: null
+Album: Graduation
+ 
+help undefined
+Thanks for using Liri!
+Type my-tweets to see the latest tweets by Jon Berry.
+Type spotify-this-song followed by a song name IN QUOTES to see its Spotify info.
+Type movie-this followed by a movie name IN QUOTES to see its IMDB info.
+Type do-what-it-says to enact a set of random commands.
+ 
+spotify-this-song undefined
+------------
+Song Name: Sign of the Times
+Artist: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=221170c4d1f645bab7c38e4708cab898
+Album: Sign of the Times
+ 
+do-what-it-says undefined
+ 
+spotify-this-song "War, What Is It Good For"
+ 
+my-tweets undefined
+movie-this "Breakfast Club"my-tweets undefined
+ 
+------------
+RT @msdevUK: The art of debugging https://t.co/os6EFYDRDh #DevHumor https://t.co/u5uOeliiKb
+Thu Jun 29 16:48:29 +0000 2017
+------------
+RT @addyosmani: CSS font-display:optional just shipped in Chrome 60! If you can't load a font fast, it'll just use a fallback: https://t.co…
+Thu Jun 15 04:38:04 +0000 2017
+------------
+There's something immensely delightful about a custom scrollbar, I don't know what it is.
+Tue Jun 06 14:37:50 +0000 2017
+------------
+There's a real joy to the way #Masonry shifts page elements around, not even going to lie.
+Thu Jun 29 16:20:04 +0000 2017
+------------
+Too true... @ThreePanelSoul .
+https://t.co/G6cMTZsPr5
+Thu Jun 29 16:47:35 +0000 2017
+------------
+Today I got excited by a font pack sale. Clearly I'm off the deep end... @FontSquirrel
+Tue Jun 06 02:22:37 +0000 2017
+Oops, that movie does not seem to be in OMBD!
+------------
+Song Name: War, What Is It Good For?
+Artist: Ugly Rumours
+Preview Link: https://p.scdn.co/mp3-preview/d0a8571879c9bfdd4c0e1d8b3ac695d4baeb8f84?cid=221170c4d1f645bab7c38e4708cab898
+Album: Viva Palestina
+ 
+movie-this Weekend at Bernie's
+Title: Weekend at Bernie's
+Year: 1989
+IMDB Rating: 6.4/10
+Rotten Tomatoes Rating: 52%
+Country: USA
+Language: English
+Plot: Two losers try to pretend that their murdered employer is really alive, leading the hitman to attempt to track him down to finish him off.
+Actors: Andrew McCarthy, Jonathan Silverman, Catherine Mary Stewart, Terry Kiser
+ 
+my-tweets undefined
+------------
+RT @msdevUK: The art of debugging https://t.co/os6EFYDRDh #DevHumor https://t.co/u5uOeliiKb
+Thu Jun 29 16:48:29 +0000 2017
+------------
+There's a real joy to the way #Masonry shifts page elements around, not even going to lie.
+Thu Jun 29 16:20:04 +0000 2017
+------------
+Too true... @ThreePanelSoul .
+https://t.co/G6cMTZsPr5
+Thu Jun 29 16:47:35 +0000 2017
+------------
+RT @addyosmani: CSS font-display:optional just shipped in Chrome 60! If you can't load a font fast, it'll just use a fallback: https://t.co…
+Thu Jun 15 04:38:04 +0000 2017
+------------
+There's something immensely delightful about a custom scrollbar, I don't know what it is.
+Tue Jun 06 14:37:50 +0000 2017
+------------
+Today I got excited by a font pack sale. Clearly I'm off the deep end... @FontSquirrel
+Tue Jun 06 02:22:37 +0000 2017
+ 
+weather undefined
+Location: San Francisco, CA
+Current Weather: 58 F
+Weather Type: Partly Sunny
+ 
+weather los angeles
+Location: Los Angeles, CA
+Current Weather: 73 F
+Weather Type: Sunny
+ 
+hel undefined
+command not found. Type help to see a list of available commands.
+ 
+help undefined
+Thanks for using Liri!
+Type my-tweets to see the latest tweets by Jon Berry.
+Type spotify-this-song followed by a song name IN QUOTES to see its Spotify info.
+Type movie-this followed by a movie name IN QUOTES to see its IMDB info.
+Type weather followed by a location IN QUOTES to see its weather info.
+Type do-what-it-says to enact a set of random commands.
+ 
+do-what-it-says undefined
+ 
+movie-this "Breakfast Club"my-tweets undefined
+Oops, that movie does not seem to be in OMBD!
+ 
+do-what-it-says undefined
+ 
+movie-this "Breakfast Club"
+Title: The Breakfast Club
+Year: 1985
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+ 
+do-what-it-says undefined
+ 
+movie-this "Breakfast Club"
+Title: The Breakfast Club
+Year: 1985
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+ 
+weather san francisco
+Location: San Francisco, CA
+Current Weather: 54 F
+Weather Type: Partly Sunny
+ 
+do-what-it-says undefined
+ 
+movie-this "Breakfast Club"
+Title: The Breakfast Club
+Year: 1985
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+ 
+my-tweets undefined
+------------
+Vertical align, how you vex me so...
+Fri Jul 07 00:53:05 +0000 2017
+------------
+Urge to make a game rising. Maybe I should fire up Unity...
+Tue Jul 04 04:30:51 +0000 2017
+------------
+RT @davidwalshblog: Convert PSD to PNG with Node.js
+https://t.co/k2l2N4YwE7 https://t.co/Ok9ShfsHON
+Sat Jul 01 22:04:41 +0000 2017
+------------
+Vamos Chile! One more match to go. #ConfedCup
+Sat Jul 01 22:03:53 +0000 2017
+------------
+RT @davidwalshblog: Create WebPage Screenshots with Node.js and SlimerJS
+https://t.co/84xBjtcs3f https://t.co/1ZHi2ITgJy
+Fri Jun 30 01:00:48 +0000 2017
+------------
+RT @msdevUK: The art of debugging https://t.co/os6EFYDRDh #DevHumor https://t.co/u5uOeliiKb
+Thu Jun 29 16:48:29 +0000 2017
+------------
+Too true... @ThreePanelSoul .
+https://t.co/G6cMTZsPr5
+Thu Jun 29 16:47:35 +0000 2017
+------------
+There's a real joy to the way #Masonry shifts page elements around, not even going to lie.
+Thu Jun 29 16:20:04 +0000 2017
+------------
+RT @addyosmani: CSS font-display:optional just shipped in Chrome 60! If you can't load a font fast, it'll just use a fallback: https://t.co…
+Thu Jun 15 04:38:04 +0000 2017
+------------
+There's something immensely delightful about a custom scrollbar, I don't know what it is.
+Tue Jun 06 14:37:50 +0000 2017
+------------
+Today I got excited by a font pack sale. Clearly I'm off the deep end... @FontSquirrel
+Tue Jun 06 02:22:37 +0000 2017
+ 
+stop undefined
+command not found. Type help to see a list of available commands.
+ 
+help undefined
+Thanks for using Liri!
+Type my-tweets to see the latest tweets by Jon Berry.
+Type spotify-this-song followed by a song name IN QUOTES to see its Spotify info.
+Type movie-this followed by a movie name IN QUOTES to see its IMDB info.
+Type weather followed by a location IN QUOTES to see its weather info.
+Type do-what-it-says to enact a set of random commands.
+ 
+weather undefined
+ 
+weather undefined
+Location: San Francisco, CA
+Current Weather: 68 F
+Weather Type: Mostly Sunny
+ 
+weather undefined
+Location: San Francisco, CA
+Current Weather: 68 F
+Weather Type: Mostly Sunny
+ 
+weather undefined
+Location: San Francisco, CA
+Current Weather: 68 F
+Weather Type: Mostly Sunny
+ 
+weather san francisco
+Location: San Francisco, CA
+Current Weather: 68 F
+Weather Type: Sunny
+ 
+weather oakland
+Location: Oakland, CA
+Current Weather: 73 F
+Weather Type: Sunny
+ 
+my-tweets undefined
+------------
+Vertical align, how you vex me so...
+Fri Jul 07 00:53:05 +0000 2017
+------------
+Urge to make a game rising. Maybe I should fire up Unity...
+Tue Jul 04 04:30:51 +0000 2017
+------------
+RT @davidwalshblog: Convert PSD to PNG with Node.js
+https://t.co/k2l2N4YwE7 https://t.co/Ok9ShfsHON
+Sat Jul 01 22:04:41 +0000 2017
+------------
+RT @davidwalshblog: Create WebPage Screenshots with Node.js and SlimerJS
+https://t.co/84xBjtcs3f https://t.co/1ZHi2ITgJy
+Fri Jun 30 01:00:48 +0000 2017
+------------
+RT @msdevUK: The art of debugging https://t.co/os6EFYDRDh #DevHumor https://t.co/u5uOeliiKb
+Thu Jun 29 16:48:29 +0000 2017
+------------
+Too true... @ThreePanelSoul .
+https://t.co/G6cMTZsPr5
+Thu Jun 29 16:47:35 +0000 2017
+------------
+There's a real joy to the way #Masonry shifts page elements around, not even going to lie.
+Thu Jun 29 16:20:04 +0000 2017
+------------
+Vamos Chile! One more match to go. #ConfedCup
+Sat Jul 01 22:03:53 +0000 2017
+------------
+RT @addyosmani: CSS font-display:optional just shipped in Chrome 60! If you can't load a font fast, it'll just use a fallback: https://t.co…
+Thu Jun 15 04:38:04 +0000 2017
+------------
+There's something immensely delightful about a custom scrollbar, I don't know what it is.
+Tue Jun 06 14:37:50 +0000 2017
+------------
+Today I got excited by a font pack sale. Clearly I'm off the deep end... @FontSquirrel
+Tue Jun 06 02:22:37 +0000 2017
+ 
+movie-this toy
+ 
+movie-this toy story
+Title: Toy Story
+Year: 1995
+IMDB Rating: 8.3/10
+Rotten Tomatoes Rating: 100%
+Country: USA
+Language: English
+Plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+ 
+movie-this toy story
+Title: Toy Story
+Year: 1995
+IMDB Rating: 8.3/10
+Rotten Tomatoes Rating: 100%
+Country: USA
+Language: English
+Plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+ 
+spotify-this-song undefined
+------------
+Song Name: Sign of the Times
+Artist: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=221170c4d1f645bab7c38e4708cab898
+Album: Sign of the Times
+ 
+spotify-this-song undefined
+------------
+Song Name: Sign of the Times
+Artist: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=221170c4d1f645bab7c38e4708cab898
+Album: Sign of the Times
+ 
+spotify-this-song undefined
+------------
+Song Name: Sign of the Times
+Artist: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=221170c4d1f645bab7c38e4708cab898
+Album: Sign of the Times
+ 
+spotify-this-song undefined
+------------
+Song Name: Sign of the Times
+Artist: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=221170c4d1f645bab7c38e4708cab898
+Album: Sign of the Times
+ 
+movie-this undefined
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 64%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ 
+spotify-this-song undefined
+------------
+Song Name: Sign of the Times
+Artist: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=221170c4d1f645bab7c38e4708cab898
+Album: Sign of the Times
+ 
+weather undefined
+Location: San Francisco, CA
+Current Weather: 67 F
+Weather Type: Sunny
+ 
+movie-this undefined
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 64%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ 
+Weekend at Bernie's undefined
+command not found. Type help to see a list of available commands.
+ 
+movie-this Weekend at Bernie's
+Title: Weekend at Bernie's
+Year: 1989
+IMDB Rating: 6.4/10
+Rotten Tomatoes Rating: 52%
+Country: USA
+Language: English
+Plot: Two losers try to pretend that their murdered employer is really alive, leading the hitman to attempt to track him down to finish him off.
+Actors: Andrew McCarthy, Jonathan Silverman, Catherine Mary Stewart, Terry Kiser
+ 
+my-tweets undefined
+------------
+Vertical align, how you vex me so...
+Fri Jul 07 00:53:05 +0000 2017
+------------
+Urge to make a game rising. Maybe I should fire up Unity...
+Tue Jul 04 04:30:51 +0000 2017
+------------
+RT @davidwalshblog: Convert PSD to PNG with Node.js
+https://t.co/k2l2N4YwE7 https://t.co/Ok9ShfsHON
+Sat Jul 01 22:04:41 +0000 2017
+------------
+Vamos Chile! One more match to go. #ConfedCup
+Sat Jul 01 22:03:53 +0000 2017
+------------
+RT @davidwalshblog: Create WebPage Screenshots with Node.js and SlimerJS
+https://t.co/84xBjtcs3f https://t.co/1ZHi2ITgJy
+Fri Jun 30 01:00:48 +0000 2017
+------------
+RT @msdevUK: The art of debugging https://t.co/os6EFYDRDh #DevHumor https://t.co/u5uOeliiKb
+Thu Jun 29 16:48:29 +0000 2017
+------------
+Too true... @ThreePanelSoul .
+https://t.co/G6cMTZsPr5
+Thu Jun 29 16:47:35 +0000 2017
+------------
+There's a real joy to the way #Masonry shifts page elements around, not even going to lie.
+Thu Jun 29 16:20:04 +0000 2017
+------------
+RT @addyosmani: CSS font-display:optional just shipped in Chrome 60! If you can't load a font fast, it'll just use a fallback: https://t.co…
+Thu Jun 15 04:38:04 +0000 2017
+------------
+There's something immensely delightful about a custom scrollbar, I don't know what it is.
+Tue Jun 06 14:37:50 +0000 2017
+------------
+Today I got excited by a font pack sale. Clearly I'm off the deep end... @FontSquirrel
+Tue Jun 06 02:22:37 +0000 2017
+ 
+spotify-this-song Thriller
+------------
+Song Name: Billie Jean
+Artist: Michael Jackson
+Preview Link: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4?cid=221170c4d1f645bab7c38e4708cab898
+Album: Thriller 25 Super Deluxe Edition
+ 
+help undefined
+Thanks for using Liri!
+Type my-tweets to see the latest tweets by Jon Berry.
+Type spotify-this-song followed by a song name IN QUOTES to see its Spotify info.
+Type movie-this followed by a movie name IN QUOTES to see its IMDB info.
+Type weather followed by a location IN QUOTES to see its weather info.
+Type do-what-it-says to enact a set of random commands.
+ 
+do-what-it-says undefined
+ 
+movie-this "Breakfast Club"
+Title: The Breakfast Club
+Year: 1985
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
